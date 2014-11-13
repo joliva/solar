@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "John Oliva",
+    "longName": "Solar",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Solar",
+    "uuid": "34da3fbf-f1f3-401d-8c71-2d15982556f4",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
